@@ -51,9 +51,7 @@ I enjoy building **secure, scalable systems** and applying modern engineering pr
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwal-kumar-2aba15238)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ujjwal_6281)  
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ujjwal_6281/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ujjwal-kumar-2aba15238/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/UjjwalK38116882) 
 ---
 
 # 💻 Tech Stack
@@ -85,10 +83,9 @@ I enjoy building **secure, scalable systems** and applying modern engineering pr
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ujjwalkumar-64&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ujjwalkumar-64&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalkumar-64&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=ujjwalkumar-64&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ujjwalkumar-64&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalkumar-64&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ## 🏆 GitHub Trophies
